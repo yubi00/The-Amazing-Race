@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1335512063 source:c:\sfml lesson\simple_race\main.cpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+	"Single_Player.h"
+
+1335296668 source:c:\sfml lesson\simple_race\collision.cpp
+	"Collision.h"
+
+1335296668 c:\sfml lesson\simple_race\collision.h
+	<SFML/Graphics.hpp>
+
+1335471798 c:\sfml lesson\simple_race\single_player.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+
+1335296668 source:c:\sfml lesson\the amazing race\collision.cpp
+	"Collision.h"
+
+1335296668 c:\sfml lesson\the amazing race\collision.h
+	<SFML/Graphics.hpp>
+
+1335592304 source:c:\sfml lesson\the amazing race\main.cpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+	"Single_Player.h"
+
+1335471798 c:\sfml lesson\the amazing race\single_player.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+

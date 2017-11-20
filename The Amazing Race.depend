@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1336468722 source:c:\sfml lesson\the amazing race\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Menu.hpp"
+
+1335296668 c:\sfml lesson\the amazing race\collision.h
+	<SFML/Graphics.hpp>
+
+1336614553 c:\sfml lesson\the amazing race\single_player.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Map.hpp"
+	"Map2.hpp"
+	"Map3.hpp"
+
+1335296668 source:c:\sfml lesson\the amazing race\collision.cpp
+	"Collision.h"
+
+1336625971 c:\sfml lesson\the amazing race\menu.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Single_Player.h"
+	"Quick_Race.hpp"
+	"Help.hpp"
+	"Credit.hpp"
+
+1336710060 c:\sfml lesson\the amazing race\quick_race.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+
+1335721260 c:\sfml lesson\the amazing race\gameover.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Menu.hpp"
+	"Quick_Race.hpp"
+
+1335872754 c:\sfml lesson\the amazing race\map1.hpp
+
+1336667477 c:\sfml lesson\the amazing race\map.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+
+1336628288 c:\sfml lesson\the amazing race\map2.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+
+1336621748 c:\sfml lesson\the amazing race\map3.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+
+1336667477 c:\sfml lesson\the amazing race\help.hpp
+	<SFML/Graphics.hpp>
+
+1336626843 c:\sfml lesson\the amazing race\credit.hpp
+	<SFML/Graphics.hpp>
+
+1336468722 source:c:\tuts\sfml lesson\the amazing race\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Menu.hpp"
+
+1336625971 c:\tuts\sfml lesson\the amazing race\menu.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Single_Player.h"
+	"Quick_Race.hpp"
+	"Help.hpp"
+	"Credit.hpp"
+
+1336614553 c:\tuts\sfml lesson\the amazing race\single_player.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Map.hpp"
+	"Map2.hpp"
+	"Map3.hpp"
+
+1336667477 c:\tuts\sfml lesson\the amazing race\map.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+
+1335296668 c:\tuts\sfml lesson\the amazing race\collision.h
+	<SFML/Graphics.hpp>
+
+1336628288 c:\tuts\sfml lesson\the amazing race\map2.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+
+1336621748 c:\tuts\sfml lesson\the amazing race\map3.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+
+1336710060 c:\tuts\sfml lesson\the amazing race\quick_race.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	"Collision.h"
+
+1336667477 c:\tuts\sfml lesson\the amazing race\help.hpp
+	<SFML/Graphics.hpp>
+
+1336626843 c:\tuts\sfml lesson\the amazing race\credit.hpp
+	<SFML/Graphics.hpp>
+
+1335296668 source:c:\tuts\sfml lesson\the amazing race\collision.cpp
+	"Collision.h"
+
